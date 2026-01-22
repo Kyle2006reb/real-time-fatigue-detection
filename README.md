@@ -110,6 +110,3 @@ Excellent focus! Keep up the great work.
 ================================================================================
 ```
 
-## License
-
-MIT License
